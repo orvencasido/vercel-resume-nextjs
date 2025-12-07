@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   const profile = {
-    name: "Orven Casido",
+    name: "Orven Example",
     title: "Senior Software Engineer",
     location: "Remote — San Francisco, CA",
     email: "orven@example.com",
